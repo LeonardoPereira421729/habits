@@ -1,1 +1,1 @@
-Este foi um projeto realizado durante o evento NLW Setup produzido pela Rockeseat
+Este foi um projeto realizado durante o evento NLW Setup produzido pela Rocketseat.
